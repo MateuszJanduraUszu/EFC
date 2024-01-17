@@ -4,6 +4,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 #include <unit/encryption_engine.hpp>
+#include <unit/key_derivation.hpp>
 
 int main() {
     ::testing::InitGoogleTest();
